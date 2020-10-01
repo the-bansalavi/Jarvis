@@ -1,0 +1,3 @@
+# Jarvis
+AI desktop Voice Assistant
+if u upload ur code on git hub make sure u have removerd ur own info from code (EX. email, folders name; etc.....
