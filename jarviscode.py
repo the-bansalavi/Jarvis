@@ -61,7 +61,7 @@ def sendEmail(to,content):
     
 if __name__ == "__main__":
     #speak("harry is a good boy")
-    #wishme()
+    wishme()
     while True:
         query = takeCommand().lower()
 
